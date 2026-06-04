@@ -29,6 +29,6 @@ The generated artifact will be available in the `target/` directory.
 If the build produces an executable JAR file, run it with:
 
 ```bash
-java -jar target/cs425quiz1.jar
+java -jar target/cs425quiz1-1.0-SNAPSHOT.jar
 ```
 
