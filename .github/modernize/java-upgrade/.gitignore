@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Maven wrapper (optional)
+.mvn/wrapper/maven-wrapper.jar
+
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
