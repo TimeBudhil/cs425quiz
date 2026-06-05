@@ -4,7 +4,7 @@
 
 The following runtime tools are required:
 
-* Java 21 (JDK 21)
+* Java 25 (JDK 25)
 * Apache Maven 3.9+
 
 Verify installations:
